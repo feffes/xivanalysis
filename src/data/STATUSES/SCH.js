@@ -16,4 +16,10 @@ export default {
 		name: 'Galvanize',
 		icon: 'https://xivapi.com/i/012000/012801.png',
 	},
+
+	CATALYZE: {
+		id: 1918,
+		name: 'Catalyze',
+		icon: 'https://xivapi.com/i/012000/012814.png',
+	},
 }
